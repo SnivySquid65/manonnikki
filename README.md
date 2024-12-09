@@ -5,10 +5,11 @@ MANONNIKKI is a Yume Nikki fangame created by Shadok, however, in lore, it was c
 
 ## The game
 MANONNIKKI plays as a normal EasyRPG game.  However, there are no combat situations, and your only goal is to see all the sights.
-It was created using EasyRPG 2003, and is available on itch.io only through a web version.
+It was created using EasyRPG 2003, and is available on itch.io only through a web version.  Simply type MANONNIKKI into the search bar of your favorite search engine, and it should be the first result.
 
 ## This repository
-This absolutely does not matter.  In fact, some odd methods were used to get all the assets.  It's mostly an archive as of now, but my goal is to get this working in RPGmaker so I can port it to other platforms, like Windows, Mac, Linux, and maybe even Wii and 3DS ports!
+This absolutely does not matter.  In fact, some odd methods were used to get all the assets.  It's mostly an archive as of now, but my goal is to get this working in RPGmaker so I can port it to other platforms, like Windows, Mac, Linux, and maybe even Wii/Gamecube and 3DS ports!  I might even port it to PSP and DSi if I can.
 
 ## Usage
 If this repository is requested for takedown by Shadok, I'll follow through.
+Any files listed as `.failed` weren't handled, and had a 403 forbidden error upon load.  However, these don't seem to load in normal gameplay, so that shouldn't matter too much.
