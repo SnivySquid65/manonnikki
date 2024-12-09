@@ -13,4 +13,8 @@ This absolutely does not matter.  In fact, some odd methods were used to get all
 
 ## Usage
 If this repository is requested for takedown by Shadok, I'll follow through.
-Any files listed as `.failed` weren't handled, and had a 403 forbidden error upon load.  However, these don't seem to load in normal gameplay, so that shouldn't matter too much.
+Any files listed as `.failed` weren't handled, and had a 403 forbidden error upon load.  However, these don't seem to load in normal gameplay, so that shouldn't matter too much.  All maps, images, and some audio are fully intact.
+
+## Noted Issues
+- All music is incomplete, however, most short sound samples are intact.
+- The webpage assets do not work whatsoever, but no errors are reported in inspect element debuggers.
