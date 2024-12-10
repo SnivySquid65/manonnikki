@@ -1,0 +1,43 @@
+[2024-12-10 18:26:54] Debug: EasyRPG Player 0.8 git+599@edec5383 (CI, 2024-12-01) started
+[2024-12-10 18:26:54] Debug: ============================================================
+[2024-12-10 18:26:54] Debug: CLI: 
+[2024-12-10 18:26:54] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-10 18:26:54] Debug: Seeded the RNG with 1733873213.
+[2024-12-10 18:26:54] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-10 18:26:54] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-10 18:26:54] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2024-12-10 18:26:54] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-10 18:26:54] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-10 18:26:54] Debug: Game and Save Directory:
+[2024-12-10 18:26:54] Debug: 1: [Native] 
+[2024-12-10 18:26:54] Debug: Loading game SM_01
+[2024-12-10 18:26:54] Debug: Game does not need RTP (FullPackageFlag=1)
+[2024-12-10 18:26:54] Debug: EXEReader: EXFONT resource found (DE 0xe9f20; 0xeff60; len 0x2168)
+[2024-12-10 18:26:54] Debug: EXEReader: VERSIONINFO resource found (DE 0xea210; 0xfbea4; len 0x2ec)
+[2024-12-10 18:26:54] Debug: RPG_RT information: version=1.1.2.1 logos=1 code=0xc9000 cherry=0xb800 geep=0x0 i386=true easyrpg=false
+[2024-12-10 18:26:54] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=true
+[2024-12-10 18:26:54] Debug: Patch configuration: None
+[2024-12-10 18:26:54] Debug: Cannot find: Font/Font
+[2024-12-10 18:26:54] Debug: Cannot find: Font/Font2
+[2024-12-10 18:26:54] Debug: Cannot find: Logo/LOGO1
+[2024-12-10 18:26:54] Debug: EXEReader: LOGO1 resource found (DE 0xe9dc0; 0xea428; len 0x3d38)
+[2024-12-10 18:26:55] Debug: Resolution changed to 320x240
+[2024-12-10 18:26:55] Debug: Loaded Map Map0002.lmu
+[2024-12-10 18:26:55] Debug: Tree: START
+[2024-12-10 18:27:36] Debug: Loaded Map Map0003.lmu
+[2024-12-10 18:27:36] Debug: Tree: MONSTER
+[2024-12-10 18:27:47] Debug: Cannot find: Music/12 Cate Wurtz - Bittersweet
+[2024-12-10 18:27:47] Debug: Music not found: 12 Cate Wurtz - Bittersweet
+[2024-12-10 18:27:48] Debug: Starting battle 1 (???): algos=(RPG_RT/RPG_RT)
+[2024-12-10 18:28:30] Debug: Cannot find: Music/12 Cate Wurtz - Bittersweet
+[2024-12-10 18:28:30] Debug: Music not found: 12 Cate Wurtz - Bittersweet
+[2024-12-10 18:28:31] Debug: Starting battle 1 (???): algos=(RPG_RT/RPG_RT)
+[2024-12-10 18:29:02] Debug: Loaded Map Map0001.lmu
+[2024-12-10 18:29:02] Debug: Tree: FLAT
+[2024-12-10 18:30:17] Debug: Resolution changed to 320x240
+[2024-12-10 18:30:17] Debug: Loaded Map Map0002.lmu
+[2024-12-10 18:30:17] Debug: Tree: START
+[2024-12-10 18:30:27] Debug: Loaded Map Map0003.lmu
+[2024-12-10 18:30:27] Debug: Tree: MONSTER
+[2024-12-10 18:30:48] Debug: Loaded Map Map0001.lmu
+[2024-12-10 18:30:48] Debug: Tree: FLAT
