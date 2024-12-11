@@ -1,0 +1,153 @@
+[2024-12-10 19:12:24] Debug: EasyRPG Player 0.8 git+599@edec5383 (CI, 2024-12-01) started
+[2024-12-10 19:12:24] Debug: ============================================================
+[2024-12-10 19:12:24] Debug: CLI: 
+[2024-12-10 19:12:24] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-10 19:12:24] Debug: Seeded the RNG with 1733875943.
+[2024-12-10 19:12:24] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-10 19:12:24] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-10 19:12:24] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2024-12-10 19:12:24] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-10 19:12:24] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-10 19:12:24] Debug: Game and Save Directory:
+[2024-12-10 19:12:24] Debug: 1: [Native] 
+[2024-12-10 19:12:24] Debug: Loading game SM_01
+[2024-12-10 19:12:24] Debug: Game does not need RTP (FullPackageFlag=1)
+[2024-12-10 19:12:24] Debug: Cannot find RPG_RT
+[2024-12-10 19:12:24] Debug: Could not get the size of RPG_RT.exe
+[2024-12-10 19:12:24] Debug: Assuming newer engine
+[2024-12-10 19:12:24] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-12-10 19:12:24] Debug: Patch configuration: None
+[2024-12-10 19:12:24] Debug: Cannot find: System/system02
+[2024-12-10 19:12:24] Warning: Image not found: System/system02
+[2024-12-10 19:12:24] Debug: Cannot find: Font/Font
+[2024-12-10 19:12:24] Debug: Cannot find: Font/Font2
+[2024-12-10 19:12:24] Debug: Cannot find: Logo/LOGO1
+[2024-12-10 19:12:25] Debug: Resolution changed to 320x240
+[2024-12-10 19:12:25] Debug: Cannot find: Title/Title
+[2024-12-10 19:12:25] Warning: Image not found: Title/Title
+[2024-12-10 19:12:31] Debug: Starting new game
+[2024-12-10 19:12:31] Debug: Loaded Map Map0001.lmu
+[2024-12-10 19:12:31] Debug: Tree: START
+[2024-12-10 19:12:31] Debug: Cannot find: Music/02 yuuneey - LOVEWEB Theme 2 [Dial-Up]
+[2024-12-10 19:12:31] Debug: Music not found: 02 yuuneey - LOVEWEB Theme 2 [Dial-Up]
+[2024-12-10 19:12:43] Debug: Loaded Map Map0002.lmu
+[2024-12-10 19:12:43] Debug: Tree: DREAM < START
+[2024-12-10 19:12:47] Debug: Loaded Map Map0003.lmu
+[2024-12-10 19:12:47] Debug: Tree: NEXUS < DREAM < START
+[2024-12-10 19:12:50] Debug: Loaded Map Map0012.lmu
+[2024-12-10 19:12:50] Debug: Tree: KEYGENWORLD < NEXUS < DREAM < START
+[2024-12-10 19:12:50] Debug: Cannot find: Music/KEYGEN WORLD
+[2024-12-10 19:12:50] Debug: Music not found: KEYGEN WORLD
+[2024-12-10 19:12:55] Debug: Cannot find: Sound/YOU ARE A PIRATE
+[2024-12-10 19:12:55] Debug: Sound not found: YOU ARE A PIRATE
+[2024-12-10 19:12:55] Debug: Cannot find: Picture/PIRATE01
+[2024-12-10 19:12:55] Warning: Image not found: Picture/PIRATE01
+[2024-12-10 19:12:55] Debug: Cannot find: Picture/PIRATE02
+[2024-12-10 19:12:55] Warning: Image not found: Picture/PIRATE02
+[2024-12-10 19:12:56] Debug: Cannot find: Picture/PIRATE03
+[2024-12-10 19:12:56] Warning: Image not found: Picture/PIRATE03
+[2024-12-10 19:12:56] Debug: Cannot find: Picture/PIRATE04
+[2024-12-10 19:12:56] Warning: Image not found: Picture/PIRATE04
+[2024-12-10 19:13:02] Debug: Cannot find: Music/KEYGEN WORLD
+[2024-12-10 19:13:02] Debug: Music not found: KEYGEN WORLD
+[2024-12-10 19:13:12] Debug: Loaded Map Map0003.lmu
+[2024-12-10 19:13:12] Debug: Tree: NEXUS < DREAM < START
+[2024-12-10 19:13:20] Debug: Loaded Map Map0004.lmu
+[2024-12-10 19:13:20] Debug: Tree: 2CH WORLD < NEXUS < DREAM < START
+[2024-12-10 19:13:20] Debug: Cannot find: Music/2CH WORLD
+[2024-12-10 19:13:20] Debug: Music not found: 2CH WORLD
+[2024-12-10 19:13:39] Debug: Loaded Map Map0003.lmu
+[2024-12-10 19:13:39] Debug: Tree: NEXUS < DREAM < START
+[2024-12-10 19:13:42] Debug: Loaded Map Map0009.lmu
+[2024-12-10 19:13:42] Debug: Tree: RAINBOW WORLD < NEXUS < DREAM < START
+[2024-12-10 19:13:42] Debug: Cannot find: Music/RAINBOW WORLD
+[2024-12-10 19:13:42] Debug: Music not found: RAINBOW WORLD
+[2024-12-10 19:13:47] Debug: Loaded Map Map0011.lmu
+[2024-12-10 19:13:47] Debug: Tree: NYANCATRIDE < RAINBOW WORLD < NEXUS < DREAM < START
+[2024-12-10 19:13:53] Debug: Loaded Map Map0009.lmu
+[2024-12-10 19:13:53] Debug: Tree: RAINBOW WORLD < NEXUS < DREAM < START
+[2024-12-10 19:13:55] Debug: Loaded Map Map0003.lmu
+[2024-12-10 19:13:55] Debug: Tree: NEXUS < DREAM < START
+[2024-12-10 19:14:02] Debug: Loaded Map Map0002.lmu
+[2024-12-10 19:14:02] Debug: Tree: DREAM < START
+[2024-12-10 19:14:02] Debug: Cannot find: Music/02 yuuneey - LOVEWEB Theme 2 [Dial-Up]
+[2024-12-10 19:14:02] Debug: Music not found: 02 yuuneey - LOVEWEB Theme 2 [Dial-Up]
+[2024-12-10 19:14:04] Debug: Loaded Map Map0001.lmu
+[2024-12-10 19:14:04] Debug: Tree: START
+[2024-12-10 19:14:17] Debug: Cannot find: System/system02
+[2024-12-10 19:14:17] Warning: Image not found: System/system02
+[2024-12-10 19:14:17] Debug: Resolution changed to 320x240
+[2024-12-10 19:14:17] Debug: Cannot find: Title/Title
+[2024-12-10 19:14:17] Warning: Image not found: Title/Title
+[2024-12-10 19:15:53] Debug: EasyRPG Player 0.8 git+599@edec5383 (CI, 2024-12-01) started
+[2024-12-10 19:15:53] Debug: ============================================================
+[2024-12-10 19:15:53] Debug: CLI: 
+[2024-12-10 19:15:53] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-10 19:15:53] Debug: Seeded the RNG with 1733876153.
+[2024-12-10 19:15:53] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-10 19:15:53] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-10 19:15:53] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2024-12-10 19:15:53] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-10 19:15:53] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-10 19:15:53] Debug: Game and Save Directory:
+[2024-12-10 19:15:53] Debug: 1: [Native] 
+[2024-12-10 19:15:54] Debug: Loading game SM_01
+[2024-12-10 19:15:54] Debug: Game does not need RTP (FullPackageFlag=1)
+[2024-12-10 19:15:54] Debug: Cannot find RPG_RT
+[2024-12-10 19:15:54] Debug: Could not get the size of RPG_RT.exe
+[2024-12-10 19:15:54] Debug: Assuming newer engine
+[2024-12-10 19:15:54] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-12-10 19:15:54] Debug: Patch configuration: None
+[2024-12-10 19:15:54] Debug: Cannot find: Font/Font
+[2024-12-10 19:15:54] Debug: Cannot find: Font/Font2
+[2024-12-10 19:15:54] Debug: Cannot find: Logo/LOGO1
+[2024-12-10 19:15:55] Debug: Resolution changed to 320x240
+[2024-12-10 19:15:55] Debug: Cannot find: Title/Title
+[2024-12-10 19:15:55] Warning: Image not found: Title/Title
+[2024-12-10 20:21:25] Debug: EasyRPG Player 0.8 git+599@edec5383 (CI, 2024-12-01) started
+[2024-12-10 20:21:25] Debug: ============================================================
+[2024-12-10 20:21:25] Debug: CLI: 
+[2024-12-10 20:21:25] Debug: Clock: StdSteady steady=true period=ns (1 / 1000000000)
+[2024-12-10 20:21:25] Debug: Seeded the RNG with 1733880085.
+[2024-12-10 20:21:25] Debug: SDL2: RendererInfo hw=true sw=false vsync=true
+[2024-12-10 20:21:25] Debug: SDL2: Detected format (0) SDL_PIXELFORMAT_ARGB8888 : rank=(2)
+[2024-12-10 20:21:25] Debug: SDL2: Detected format (1) SDL_PIXELFORMAT_ABGR8888 : rank=(2)
+[2024-12-10 20:21:25] Debug: SDL2: Selected Pixel Format SDL_PIXELFORMAT_ARGB8888
+[2024-12-10 20:21:25] Debug: Detected encoding: ibm-5348_P100-1997
+[2024-12-10 20:21:25] Debug: Game and Save Directory:
+[2024-12-10 20:21:25] Debug: 1: [Native] 
+[2024-12-10 20:21:25] Debug: Loading game SM_01
+[2024-12-10 20:21:25] Debug: Game does not need RTP (FullPackageFlag=1)
+[2024-12-10 20:21:25] Debug: Cannot find RPG_RT
+[2024-12-10 20:21:25] Debug: Could not get the size of RPG_RT.exe
+[2024-12-10 20:21:25] Debug: Assuming newer engine
+[2024-12-10 20:21:25] Debug: Engine configured as: 2k=false 2k3=true MajorUpdated=true Eng=false
+[2024-12-10 20:21:26] Debug: Patch configuration: None
+[2024-12-10 20:21:26] Debug: Cannot find: Font/Font
+[2024-12-10 20:21:26] Debug: Cannot find: Font/Font2
+[2024-12-10 20:21:26] Debug: Cannot find: Logo/LOGO1
+[2024-12-10 20:21:27] Debug: Resolution changed to 320x240
+[2024-12-10 20:21:29] Debug: Starting new game
+[2024-12-10 20:21:29] Debug: Loaded Map Map0001.lmu
+[2024-12-10 20:21:29] Debug: Tree: START
+[2024-12-10 20:21:40] Debug: Loaded Map Map0002.lmu
+[2024-12-10 20:21:40] Debug: Tree: DREAM < START
+[2024-12-10 20:21:43] Debug: Loaded Map Map0003.lmu
+[2024-12-10 20:21:43] Debug: Tree: NEXUS < DREAM < START
+[2024-12-10 20:21:46] Debug: Loaded Map Map0004.lmu
+[2024-12-10 20:21:46] Debug: Tree: 2CH WORLD < NEXUS < DREAM < START
+[2024-12-10 20:22:33] Debug: Loaded Map Map0003.lmu
+[2024-12-10 20:22:33] Debug: Tree: NEXUS < DREAM < START
+[2024-12-10 20:22:39] Debug: Loaded Map Map0009.lmu
+[2024-12-10 20:22:39] Debug: Tree: RAINBOW WORLD < NEXUS < DREAM < START
+[2024-12-10 20:22:54] Debug: Loaded Map Map0011.lmu
+[2024-12-10 20:22:54] Debug: Tree: NYANCATRIDE < RAINBOW WORLD < NEXUS < DREAM < START
+[2024-12-10 20:23:49] Debug: Loaded Map Map0009.lmu
+[2024-12-10 20:23:49] Debug: Tree: RAINBOW WORLD < NEXUS < DREAM < START
+[2024-12-10 20:23:51] Debug: Loaded Map Map0003.lmu
+[2024-12-10 20:23:51] Debug: Tree: NEXUS < DREAM < START
+[2024-12-10 20:24:02] Debug: Loaded Map Map0002.lmu
+[2024-12-10 20:24:02] Debug: Tree: DREAM < START
+[2024-12-10 20:24:05] Debug: Loaded Map Map0001.lmu
+[2024-12-10 20:24:05] Debug: Tree: START
+[2024-12-10 20:24:10] Debug: Resolution changed to 320x240
