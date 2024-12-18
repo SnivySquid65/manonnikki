@@ -25,4 +25,4 @@ All patched up as of now!
 ## Credits
 LOVEWEB and MANONNIKKI were created by Shadok, and are not of my own creation.  If takedown is requested, simply file the issue under the repository, and I'll take it down.
 Thanks to Shadok, err, Cybermare for SOFTMARE, as it was vital to my success, acting as an example EasyRPG file tree, which I needed to make it work.
-Thanks to @bakustarver, for the guidance on how to get EasyRPG working on Linux, without them, I likely would have abandon this project!
+Thanks to @bakustarver for the guidance on how to get EasyRPG working on Linux, without them, I likely would have abandon this project!
