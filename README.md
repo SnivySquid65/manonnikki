@@ -9,7 +9,7 @@ It was created using EasyRPG 2003, and is available on itch.io only through a we
 <a href="https://html-classic.itch.zone/html/5257689/player-js/index.html">You can also play it here in raw format.</a>
 
 ## This repository
-This is an archive that was acheived soley through using the Network Log tools in Firefox, inspecting where it was loaded from, and trial and error.  It's mostly an archive as of now, but my goal is to find players for other consoles so I can port it to other platforms, like Windows, Mac, Linux, and maybe even Wii/Gamecube and 3DS ports!  I might even port it to PSP and DSi if I can.
+This is an archive that was acheived soley through using the Network Log tools in Firefox, inspecting where it was loaded from, and trial and error.  It's mostly an archive as of now, but my goal is to find players for other consoles so I can port it to other platforms, like Windows, Mac, Linux, and maybe even Wii/Gamecube and 3DS ports!
 
 ## Usage
 There currently are no releases, so the only way to play the game is to get your OS's EasyRPG player build, and drop it into the game files.
